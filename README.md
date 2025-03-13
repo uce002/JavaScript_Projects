@@ -1,0 +1,1 @@
+I'm completing the freeCodeCamp Full Stack Developer Certification. I've previously done most of the HTML and CSS with my certificate from said site so I'm starting with JavaScript with which I know but want to complete and move on to React next. If you're reading this, why not hire me 😁
